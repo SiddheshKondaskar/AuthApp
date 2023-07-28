@@ -21,8 +21,11 @@ To run the app locally, follow these steps:
 5. Run the app: `flutter run`
 
 ## Screenshots
-![Login](images/login.jpeg)
-![Signup](images/signup.jpeg)
-![Forgot](images/forgot.jpeg)
-![Home](images/home.jpeg)
+<p float="left">
+  <img src="images/login.jpeg" alt="Login" width="200" height="400">
+  <img src="images/signup.jpeg" alt="Signup" width="200" height="400">
+  <img src="images/forgot.jpeg" alt="Forgot Password" width="200" height="400">
+  <img src="images/home.jpeg" alt="Home" width="200" height="400">
+</p>
+
 
