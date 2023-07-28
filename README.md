@@ -20,3 +20,9 @@ To run the app locally, follow these steps:
 4. For Firebase: `flutterfire configure`
 5. Run the app: `flutter run`
 
+## Screenshots
+![Login](login.jpeg)
+![Signup](signup.jpeg)
+![Forgot](forgot.jpeg)
+![Home](home.jpeg)
+
