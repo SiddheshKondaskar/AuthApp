@@ -1,5 +1,5 @@
 # AuthApp
-<<<<<<< HEAD
+
 
 AuthApp is a Flutter Application that focuses on User Authentication. It provides a way for users to register, log in, and logout their accounts within the application. The main goal of AuthApp is to authenticate users' identities.
 
@@ -18,6 +18,4 @@ To run the app locally, follow these steps:
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
-=======
-Flutter based Authentication App
->>>>>>> 52a748216830372705a11be4405293eedde1b5d2
+
