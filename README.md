@@ -17,5 +17,6 @@ To run the app locally, follow these steps:
 1. Clone the repository
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: `flutter pub get`
-4. Run the app: `flutter run`
+4. For Firebase: `flutterfire configure`
+5. Run the app: `flutter run`
 
